@@ -1,6 +1,6 @@
 Official Page: https://docs.python.org/3/library/functions.html
  
-# Class¶
+# Class
 The first step in creating a class is giving it a name. 
 create two classes: Circle and Rectangle. We need to determine all the data that make up that class, which we call attributes. Think about this step as creating a blue print that we will use to create objects. In figure 1 we see two classes, Circle and Rectangle. Each has their attributes, which are variables. The class Circle has the attribute radius and color, while the Rectangle class has the attribute height and width. Let’s use the visual examples of these shapes before we get to the code, as this will help you get accustomed to the vocabulary.
 
